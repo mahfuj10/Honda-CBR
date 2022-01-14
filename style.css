@@ -1,0 +1,32 @@
+/* body */
+body{
+    overflow-x: hidden;
+}
+html{
+    overflow-x: hidden;
+}
+/* html */
+header{
+    background: #264653;
+}
+.color{
+    color: #E76F51;
+}
+.text-color{
+    color: #E0E0E0;
+}
+.btn-color{
+    background: #E76F51;
+}
+.gray-scale{
+    filter: grayscale(100%);
+}
+hr{
+    width: 50px;
+    margin: 0 auto;
+}
+/* footer */
+footer{
+    background: #15262e;
+    height: 295px;
+}
